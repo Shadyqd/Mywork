@@ -1,3 +1,3 @@
 # Mywork
 Write a commit message that describes your changes.
-#in fact nothing
+HI I am a new guy
